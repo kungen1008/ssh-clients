@@ -267,7 +267,7 @@
 
 **适合谁**：刚接触 Linux 服务器、希望"连上就能看到服务器状态"的新手。
 
-<!-- 截图待补：把 FinalShell 界面截图命名为 finalshell.png 放进 images/，并在此处加一行 ![FinalShell](images/finalshell.png) -->
+![FinalShell](images/finalshell.png)
 
 ---
 
